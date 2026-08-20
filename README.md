@@ -73,28 +73,24 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Agung-T&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Agung-T&layout=compact&langs_count=8&theme=algolia&hide_border=true&border_radius=15"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Agung-T&theme=algolia" alt="GitHub Profile Summary"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Agung-T&theme=algolia&hide_border=true&border_radius=15" alt="GitHub Streak Stats"/>
-</div>
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Agung-T&theme=algolia" alt="Repositories per Language"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Agung-T&theme=algolia" alt="Most Commit Language"/>
+
+</div>
 ### 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Agung-T&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Agung-T&theme=algolia&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
