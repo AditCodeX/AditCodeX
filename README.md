@@ -103,7 +103,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Agung%20T-003840?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-agung-t)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Agung%20T-003840?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/aditya-agung-t](https://www.linkedin.com/in/aditya-agung-triwibowo)
   [![Email](https://img.shields.io/badge/Email-alfasted23@gmail.com-003840?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfasted23@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Aditya--Agung--T-003840?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-Agung-T)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-003840?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aditya-agung-t.github.io)
