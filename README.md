@@ -7,7 +7,7 @@
 <div align="center">
   
   [![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Agung-T&color=003840&style=for-the-badge)](https://github.com/Aditya-Agung-T)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-003840?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agung-t/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-003840?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agung-triwibowo)
   [![Email](https://img.shields.io/badge/Email-Contact-003840?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfasted23@gmail.com)
   
 </div>
