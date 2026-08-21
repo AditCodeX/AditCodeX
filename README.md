@@ -68,8 +68,6 @@
   <img src="https://img.shields.io/badge/Jupyter-003840?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
----
-
 
 ---
 
@@ -88,12 +86,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Agung-T&theme=algolia" alt="Most Commit Language"/>
 
 </div>
+
 ### 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Agung-T&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
----
 
 ## 📫 Connect With Me
 
@@ -105,9 +103,6 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-003840?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aditya-agung-t.github.io)
   
 </div>
-
----
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003840,100:00CFFF&height=100&section=footer&animation=fadeIn" alt="Footer" />
