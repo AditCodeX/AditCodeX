@@ -87,11 +87,7 @@
 
 </div>
 
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Agung-T&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
+---
 
 ## 📫 Connect With Me
 
