@@ -1,6 +1,6 @@
 <!-- Professional Header with Animated Typing -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003840,100:00CFFF&height=200&section=header&text=Aditya%20Agung%20T&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Engineer%20%7C%20Machine%20Learning%20%7C%20WebDev%20Enthusiast&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003840,100:00CFFF&height=200&section=header&text=Aditya%20Agung%20Triwibowo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Engineer%20%7C%20Machine%20Learning%20%7C%20WebDev%20Enthusiast&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
 <!-- Professional Badges -->
