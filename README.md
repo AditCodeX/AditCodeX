@@ -1,12 +1,12 @@
 <!-- Professional Header with Animated Typing -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003840,100:00CFFF&height=200&section=header&text=Aditya%20Agung%20Triwibowo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Engineer%20%7C%20Machine%20Learning%20%7C%20WebDev%20Enthusiast&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003840,100:00CFFF&height=200&section=header&text=Aditya%20Agung%20Triwibowo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20%7C%20Machine%20Learning%20%7C%20Bug%20Hunter&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
 <!-- Professional Badges -->
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Agung-T&color=003840&style=for-the-badge)](https://github.com/Aditya-Agung-T)
+  [![Profile Views](https://komarev.com/ghpvc/?username=AditCodeX&color=003840&style=for-the-badge)](https://github.com/AditCodeX)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-003840?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agung-triwibowo)
   [![Email](https://img.shields.io/badge/Email-Contact-003840?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfasted23@gmail.com)
   
@@ -15,88 +15,80 @@
 <!-- Animated Typing Introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cyber+Security+Engineer;Machine+Learning;Web+Developer+Enthusiast;Cloud+Computing;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cyber+Security+Enthusiast;Bug+Hunter;Machine+Learning+Developer;Web+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## 👨‍💼 Professional Summary
+## Professional Summary
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🔐 **Cyber Security Engineer** with a passion for **Machine Learning**, **Cloud Computing** and **Web Developer**. I specialize in building secure, scalable solutions that leverage cutting-edge technologies to solve real-world problems.
+**Cyber Security & Bug Hunter Enthusiast** with a passion for **Machine Learning** and **Web Development**. I am currently pursuing an Applied Bachelor's degree in Cybersecurity Engineering at Politeknik Negeri Cilacap. Recognized in the **Hall of Fame UNESCO** for discovering critical vulnerabilities in production web assets. I specialize in identifying security flaws, building AI-driven applications, and creating functional software solutions.
 
-### 🎯 Core Competencies
-- **🛡️ Cyber Security**: Penetration Testing, Security Auditing, Incident Response
-- **🤖 Machine Learning**: Deep Learning, Computer Vision, NLP
-- **☁️ Cloud Architecture**: AWS, Google Cloud Platform, Infrastructure as Code
-- **🔧 DevSecOps**: Automation
+### Core Competencies
+- **Cyber Security**: Vulnerability Assessment, Penetration Testing, Bug Hunting (Web Security)
+- **Machine Learning**: Computer Vision (MediaPipe), Time Series / Sequence Models (LSTM), Decision Trees
+- **Development**: Full-stack Web Development, Mobile Prototyping (Kotlin)
+- **Tools**: Python, JavaScript, Security Scanners (Nmap, Zap, Metasploit)
 
-### 📚 Current Focus
-- 🌱 Advanced Cloud Security Architectures
-- 🔍 AI-Powered Security Solutions
-- 🚀 Web Developer for Human Solutions
-- 📊 File Analytics for Threat Detection
+### Current Focus
+- Integrating AI with Security (AI-Powered Security Solutions)
+- Advanced Web Vulnerability Assessment & Bug Hunting
+- Developing Secure Web and Mobile Applications
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,c,nextjs,vite" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,kotlin,php" alt="Programming Languages"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### Machine Learning & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,azure" alt="Cloud & DevOps"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="ML Frameworks"/>
+  <img src="https://img.shields.io/badge/MediaPipe-003840?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/Pandas-003840?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-003840?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-### 🔐 Security Tools
+### Security Tools
 <p align="center">
+  <img src="https://img.shields.io/badge/BurpSuite-003840?style=for-the-badge&logo=burpsuite&logoColor=white" alt="BurpSuite"/>
   <img src="https://img.shields.io/badge/Metasploit-003840?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Wireshark-003840?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Nmap-003840?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
 </p>
 
-### 🤖 Machine Learning & Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ML Frameworks"/>
-  <img src="https://img.shields.io/badge/Pandas-003840?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-003840?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-003840?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
+---
 
+## Key Achievements & Projects
+- **Hall of Fame UNESCO (Oct 2025):** Recognized globally for discovering and reporting XML-RPC Endpoints Exposure vulnerabilities on UNESCO's production web assets.
+- **Bug Hunter Apresiasi:** Received official certificate of appreciation from CSIRT Pemprov DKI Jakarta (Nov 2025).
+- **SaySign-Indonesia:** Developed a real-time SIBI (Indonesian Sign Language) translator utilizing Python, MediaPipe, and LSTM (TensorFlow/Keras).
+- **CTF-Toolkit & SIRS Mobile:** Built an interactive web UI for CTF simulations and prototyped a Secure Incident Reporting System using Kotlin.
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Agung-T&theme=algolia" alt="GitHub Profile Summary"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Agung-T&theme=algolia" alt="Repositories per Language"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Agung-T&theme=algolia" alt="Most Commit Language"/>
-
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AditCodeX&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AditCodeX&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Agung%20T-003840?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agung-triwibowo)
   [![Email](https://img.shields.io/badge/Email-alfasted23@gmail.com-003840?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfasted23@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Aditya--Agung--T-003840?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-Agung-T)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-003840?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aditya-agung-t.github.io)
+  [![Blog](https://img.shields.io/badge/Blog-AditCysec01-003840?style=for-the-badge&logo=blogger&logoColor=white)](https://aditcysec01.blogspot.com)
   
 </div>
 
@@ -105,5 +97,5 @@
 </div>
 
 <div align="center">
-  <b>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</b>
+  <b>Thanks for visiting my profile! Let's connect and build something secure together! </b>
 </div>
