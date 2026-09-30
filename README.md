@@ -24,7 +24,7 @@
 ## Professional Summary
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=7" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
+  <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=8" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
 </div>
 
 ---
