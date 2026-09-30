@@ -32,7 +32,7 @@
 ## Technical Skills
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=1" alt="Animated technical skills overview: languages, machine learning, and security tools" width="100%" />
+  <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=2" alt="Animated technical skills overview: languages, machine learning, and security tools" width="100%" />
 </div>
 
 ---
