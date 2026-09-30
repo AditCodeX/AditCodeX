@@ -1,6 +1,6 @@
 <!-- Tactical Cyber Header -->
 <div align="center">
-  <img src="banner.png" alt="Aditya Agung T. Tactical Cyber Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=2" alt="Aditya Agung T. Tactical Cyber Banner" width="100%" />
 </div>
 
 <!-- Professional Badges -->
