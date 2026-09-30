@@ -28,8 +28,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=1" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=8" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=2" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=9" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
   </picture>
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer_mobile.gif?v=1" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=1" alt="Thanks for visiting — AditCodeX profile footer" width="100%" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer_mobile.gif?v=2" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=2" alt="Thanks for visiting — AditCodeX profile footer" width="100%" />
   </picture>
 </div>
