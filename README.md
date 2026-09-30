@@ -58,8 +58,9 @@
 ### GitHub Analytics
 
 <div align="center">
+  <img src="https://gh-readme-stats.vercel.app/api?username=AditCodeX&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117" alt="AditCodeX GitHub stats" />
   <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AditCodeX&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AditCodeX&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AditCodeX&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
