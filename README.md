@@ -48,7 +48,7 @@
 
 ## Key Achievements & Projects
 - **UNESCO Hall of Fame (Oct 2025):** Listed in the official Hall of Fame for discovering and responsibly reporting XML-RPC Endpoint Exposure on UNESCO web assets.
-- **Bug Hunter Appreciation:** Official certificate of appreciation from CSIRT Pemprov DKI Jakarta (Nov 2025).
+- **Bug Hunter Appreciation:** Official certificates of appreciation from CSIRT Pemprov DKI Jakarta (Nov 2025) and CSIRT Kabupaten Pati (Feb 2026).
 - **Sec-XRay:** Built an automated reconnaissance CLI engine using Playwright, stealth evasion, and dynamic JS intercept.
 - **SaySign-Indonesia:** Real-time SIBI (Indonesian Sign Language) translator using Python, MediaPipe, and LSTM.
 - **CTF-Toolkit & SIRS Mobile:** Interactive web UI for CTF exercises and a secure incident reporting prototype in Kotlin.
