@@ -23,20 +23,19 @@
 
 ## Professional Summary
 
-<img align="right" alt="Offensive Security Recon Demo" width="390" src="recon_demo.gif">
-
-Cybersecurity Engineering student at Politeknik Negeri Cilacap with a focus on **Application Security**, **Vulnerability Assessment**, and **Machine Learning**. Actively engaged in bug hunting and security research, with formal acknowledgment in the **UNESCO Hall of Fame** for responsible vulnerability disclosure. Interested in building practical security tooling and exploring AI-assisted analysis workflows.
-
-### Core Competencies
-- **Cyber Security**: Vulnerability Assessment, Web Penetration Testing, Bug Bounty Research
-- **Machine Learning**: Computer Vision (MediaPipe), Sequence Modeling (LSTM), Applied Data Analysis
-- **Development**: Full-Stack Web Development, Python Security Tooling, Kotlin Prototyping
-- **Tooling & Environments**: Linux, Burp Suite, Playwright, Nmap, Metasploit, Git
-
-### Current Focus
-- Developing automated reconnaissance & security tooling (e.g., Sec-XRay)
-- Web application vulnerability research & responsible disclosure
-- Practical machine learning integrations for technical workflows
+<!-- Professional Summary -->
+<table>
+  <tr>
+    <td valign="top" width="68%">
+      <p>Cybersecurity Engineering student at Politeknik Negeri Cilacap with interests in <strong>Application Security</strong>, <strong>Vulnerability Research</strong>, and <strong>Machine Learning</strong>. I build practical security tools and explore applied ML projects.</p>
+      <p>Recognized in the UNESCO Hall of Fame for responsible vulnerability disclosure.</p>
+      <p><strong>Current focus:</strong> web application security, reconnaissance tooling, and responsible disclosure.</p>
+    </td>
+    <td valign="top" width="32%">
+      <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=1" alt="Animated profile card showing cybersecurity interests" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
