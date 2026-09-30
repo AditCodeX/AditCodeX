@@ -1,6 +1,9 @@
 <!-- Tactical Cyber Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=2" alt="Aditya Agung T. Tactical Cyber Banner" width="100%" />
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile.png?v=1" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=2" alt="Aditya Agung T. Tactical Cyber Banner" width="100%" />
+  </picture>
 </div>
 
 <!-- Professional Badges -->
@@ -72,5 +75,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=1" alt="Thanks for visiting — AditCodeX profile footer" width="100%" />
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer_mobile.gif?v=1" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=1" alt="Thanks for visiting — AditCodeX profile footer" width="100%" />
+  </picture>
 </div>
