@@ -28,8 +28,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=2" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=9" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=3" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=10" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
   </picture>
 </div>
 
