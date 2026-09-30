@@ -31,26 +31,9 @@
 
 ## Technical Skills
 
-### Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,kotlin,php" alt="Programming Languages"/>
-</p>
-
-### Machine Learning & AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="ML Frameworks"/>
-  <img src="https://img.shields.io/badge/MediaPipe-003840?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe"/>
-  <img src="https://img.shields.io/badge/Pandas-003840?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Jupyter-003840?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
-### Security Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/BurpSuite-003840?style=for-the-badge&logo=burpsuite&logoColor=white" alt="BurpSuite"/>
-  <img src="https://img.shields.io/badge/Metasploit-003840?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Wireshark-003840?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-003840?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=1" alt="Animated technical skills overview: languages, machine learning, and security tools" width="100%" />
+</div>
 
 ---
 
