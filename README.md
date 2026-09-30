@@ -23,7 +23,7 @@
 
 ## Professional Summary
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Offensive Security Recon Demo" width="390" src="recon_demo.gif">
 
 Cybersecurity Engineering student at Politeknik Negeri Cilacap with a focus on **Application Security**, **Vulnerability Assessment**, and **Machine Learning**. Actively engaged in bug hunting and security research, with formal acknowledgment in the **UNESCO Hall of Fame** for responsible vulnerability disclosure. Interested in building practical security tooling and exploring AI-assisted analysis workflows.
 
