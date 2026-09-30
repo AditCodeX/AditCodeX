@@ -23,20 +23,20 @@
 
 ## Professional Summary
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Cyber Security & Bug Hunter Enthusiast** with a passion for **Machine Learning** and **Web Development**. I am currently pursuing an Applied Bachelor's degree in Cybersecurity Engineering at Politeknik Negeri Cilacap. Recognized in the **Hall of Fame UNESCO** for discovering critical vulnerabilities in production web assets. I specialize in identifying security flaws, building AI-driven applications, and creating functional software solutions.
+Cybersecurity Engineering student at Politeknik Negeri Cilacap with a focus on **Application Security**, **Vulnerability Assessment**, and **Machine Learning**. Actively engaged in bug hunting and security research, with formal acknowledgment in the **UNESCO Hall of Fame** for responsible vulnerability disclosure. Interested in building practical security tooling and exploring AI-assisted analysis workflows.
 
 ### Core Competencies
-- **Cyber Security**: Vulnerability Assessment, Penetration Testing, Bug Hunting (Web Security)
-- **Machine Learning**: Computer Vision (MediaPipe), Time Series / Sequence Models (LSTM), Decision Trees
-- **Development**: Full-stack Web Development, Mobile Prototyping (Kotlin)
-- **Tools**: Python, JavaScript, Security Scanners (Nmap, Zap, Metasploit)
+- **Cyber Security**: Vulnerability Assessment, Web Penetration Testing, Bug Bounty Research
+- **Machine Learning**: Computer Vision (MediaPipe), Sequence Modeling (LSTM), Applied Data Analysis
+- **Development**: Full-Stack Web Development, Python Security Tooling, Kotlin Prototyping
+- **Tooling & Environments**: Linux, Burp Suite, Playwright, Nmap, Metasploit, Git
 
 ### Current Focus
-- Integrating AI with Security (AI-Powered Security Solutions)
-- Advanced Web Vulnerability Assessment & Bug Hunting
-- Developing Secure Web and Mobile Applications
+- Developing automated reconnaissance & security tooling (e.g., Sec-XRay)
+- Web application vulnerability research & responsible disclosure
+- Practical machine learning integrations for technical workflows
 
 ---
 
@@ -66,10 +66,11 @@
 ---
 
 ## Key Achievements & Projects
-- **Hall of Fame UNESCO (Oct 2025):** Recognized globally for discovering and reporting XML-RPC Endpoints Exposure vulnerabilities on UNESCO's production web assets.
-- **Bug Hunter Apresiasi:** Received official certificate of appreciation from CSIRT Pemprov DKI Jakarta (Nov 2025).
-- **SaySign-Indonesia:** Developed a real-time SIBI (Indonesian Sign Language) translator utilizing Python, MediaPipe, and LSTM (TensorFlow/Keras).
-- **CTF-Toolkit & SIRS Mobile:** Built an interactive web UI for CTF simulations and prototyped a Secure Incident Reporting System using Kotlin.
+- **UNESCO Hall of Fame (Oct 2025):** Listed in the official Hall of Fame for discovering and responsibly reporting XML-RPC Endpoint Exposure on UNESCO web assets.
+- **Bug Hunter Appreciation:** Official certificate of appreciation from CSIRT Pemprov DKI Jakarta (Nov 2025).
+- **Sec-XRay:** Built an automated reconnaissance CLI engine using Playwright, stealth evasion, and dynamic JS intercept.
+- **SaySign-Indonesia:** Real-time SIBI (Indonesian Sign Language) translator using Python, MediaPipe, and LSTM.
+- **CTF-Toolkit & SIRS Mobile:** Interactive web UI for CTF exercises and a secure incident reporting prototype in Kotlin.
 
 ---
 
