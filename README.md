@@ -1,6 +1,6 @@
-<!-- Professional Header with Animated Typing -->
+<!-- Tactical Cyber Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003840,100:00CFFF&height=200&section=header&text=Aditya%20Agung%20Triwibowo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20%7C%20Machine%20Learning%20%7C%20Bug%20Hunter&descAlignY=55&descSize=20" alt="Header" />
+  <img src="banner.png" alt="Aditya Agung T. Tactical Cyber Banner" width="100%" />
 </div>
 
 <!-- Professional Badges -->
