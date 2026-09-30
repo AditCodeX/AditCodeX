@@ -83,9 +83,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003840,100:00CFFF&height=100&section=footer&animation=fadeIn" alt="Footer" />
-</div>
-
-<div align="center">
-  <b>Thanks for visiting my profile! Let's connect and build something secure together! </b>
+  <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=1" alt="Thanks for visiting — AditCodeX profile footer" width="100%" />
 </div>
