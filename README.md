@@ -39,8 +39,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_mobile.gif?v=1" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=6" alt="Animated technical skills overview: languages, machine learning, and security tools" width="100%" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_mobile.gif?v=2" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=7" alt="Animated technical skills overview: languages, machine learning, and security tools" width="100%" />
   </picture>
 </div>
 
