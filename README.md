@@ -23,19 +23,9 @@
 
 ## Professional Summary
 
-<!-- Professional Summary -->
-<table>
-  <tr>
-    <td valign="top" width="68%">
-      <p>Cybersecurity Engineering student at Politeknik Negeri Cilacap with interests in <strong>Application Security</strong>, <strong>Vulnerability Research</strong>, and <strong>Machine Learning</strong>. I build practical security tools and explore applied ML projects.</p>
-      <p>Recognized in the UNESCO Hall of Fame for responsible vulnerability disclosure.</p>
-      <p><strong>Current focus:</strong> web application security, reconnaissance tooling, and responsible disclosure.</p>
-    </td>
-    <td valign="top" width="32%">
-      <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=1" alt="Animated profile card showing cybersecurity interests" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=2" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
+</div>
 
 ---
 
