@@ -29,8 +29,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=5" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=13" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=8" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=16" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
   </picture>
 </div>
 
@@ -40,8 +40,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_mobile.gif?v=5" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=11" alt="Animated technical skills overview: languages, machine learning, and security tools" width="100%" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_mobile.gif?v=8" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=16" alt="Animated technical skills overview: languages, machine learning, and security tools" width="100%" />
   </picture>
 </div>
 
