@@ -11,7 +11,6 @@
   
   [![Profile Views](https://komarev.com/ghpvc/?username=AditCodeX&color=003840&style=for-the-badge)](https://github.com/AditCodeX)
   [![Website](https://img.shields.io/badge/Website-xenrix.tech-003840?style=for-the-badge&logo=cloudflare&logoColor=white)](https://xenrix.tech)
-  [![Blog](https://img.shields.io/badge/Blog-aditcysec01-003840?style=for-the-badge&logo=blogger&logoColor=white)](https://aditcysec01.blogspot.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-003840?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agung-triwibowo)
   [![Email](https://img.shields.io/badge/Email-Contact-003840?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfasted23@gmail.com)
   
@@ -92,7 +91,6 @@
 <div align="center">
   
   [![Website](https://img.shields.io/badge/Website-xenrix.tech-003840?style=for-the-badge&logo=cloudflare&logoColor=white)](https://xenrix.tech)
-  [![Blog](https://img.shields.io/badge/Blog-aditcysec01-003840?style=for-the-badge&logo=blogger&logoColor=white)](https://aditcysec01.blogspot.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Agung%20T-003840?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agung-triwibowo)
   [![Email](https://img.shields.io/badge/Email-alfasted23@gmail.com-003840?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfasted23@gmail.com)
   
