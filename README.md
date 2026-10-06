@@ -48,14 +48,14 @@
 ---
 
 ## Key Achievements & Hall of Fame
-- 🏆 **UNESCO Hall of Fame (Oct 2025):** Officially listed in the global UNESCO Hall of Fame for responsibly disclosing XML-RPC Endpoints Exposure across production assets.
-- 🎖️ **Provincial & Regional CSIRT Recognitions:**
+- **UNESCO Hall of Fame (Oct 2025):** Officially listed in the global UNESCO Hall of Fame for responsibly disclosing XML-RPC Endpoints Exposure across production assets.
+- **Provincial & Regional CSIRT Recognitions:**
   - **CSIRT Pemerintah Provinsi DKI Jakarta (Nov 2025):** Certificate of appreciation for discovering and reporting vulnerabilities on official government portals.
   - **CSIRT Kabupaten Pati (Feb 2026):** Verified Bug Hunter acknowledgment for securing local digital infrastructure.
-- 🎓 **Education & Scholarship:**
+- **Education & Scholarship:**
   - **Politeknik Negeri Cilacap:** D4 Cyber Security Engineering (GPA: 3.79 | 2024 – Present).
   - **Pertamina Foundation Scholar:** Awardee of Beasiswa Sobat Bumi 2025 (Angkatan 12 Vokasi).
-- 📜 **Verified Licenses & Certifications (8 Credentials):**
+- **Verified Licenses & Certifications (8 Credentials):**
   - **Course Offensive Memory Exploitation** — Red Team Leaders (*Sep 2026*)
   - **Bug Hunter** — CSIRT Kabupaten Pati (*Feb 2026*)
   - **Certificate of Cybersecurity Researcher** — Pemerintah Provinsi DKI Jakarta (*Nov 2025*)
@@ -68,12 +68,12 @@
 ---
 
 ## Featured Open Source Projects
-- 🛡️ **[Sec-XRay](https://github.com/AditCodeX/Sec-XRay)** — Passive & Dynamic SPA/JS Reconnaissance Engine built with Python and Playwright. Features Anti-Bot Stealth Evasion (v2.0) to bypass Cloudflare/Akamai WAFs, deep DOM event-driven crawl, secret leaks scanner, and automated Postman Collection v2.1 generation ready for fuzzing.
-- 🤟 **[SaySign-Indonesia](https://github.com/AditCodeX/SaySign-Indonesia)** — Real-time Indonesian Sign Language (SIBI) alphabet translator using Computer Vision (MediaPipe) and Deep Learning sequence models (TensorFlow/Keras LSTM) with speech/audio output.
-- 🎯 **[CTF-Toolkit-WebUI](https://github.com/AditCodeX/CTF-Toolkit-WebUI)** — Interactive web-based suite for Capture The Flag (CTF) challenges and cybersecurity scenario simulations.
-- 📱 **[Secure Incident Reporting System (SIRS)](https://github.com/AditCodeX/Secure-Incident-Reporting-System-Mobile-Apps)** — Native Android application prototype built with Kotlin for secure, encrypted centralized incident logging.
-- 🌳 **[DT-Bug-Prediction](https://github.com/AditCodeX/DT-Bug-Prediction)** — Software defect prediction model implemented with Decision Tree machine learning algorithms.
-- 🖼️ **[Steganalysis_LSB-VISUAL](https://github.com/AditCodeX/Steganalysis_LSB-VISUAL)** — Digital steganography analyzer for detecting hidden payloads in image files via Least Significant Bit (LSB) inspection.
+- **[Sec-XRay](https://github.com/AditCodeX/Sec-XRay)** — Passive & Dynamic SPA/JS Reconnaissance Engine built with Python and Playwright. Features Anti-Bot Stealth Evasion (v2.0) to bypass Cloudflare/Akamai WAFs, deep DOM event-driven crawl, secret leaks scanner, and automated Postman Collection v2.1 generation ready for fuzzing.
+- **[SaySign-Indonesia](https://github.com/AditCodeX/SaySign-Indonesia)** — Real-time Indonesian Sign Language (SIBI) alphabet translator using Computer Vision (MediaPipe) and Deep Learning sequence models (TensorFlow/Keras LSTM) with speech/audio output.
+- **[CTF-Toolkit-WebUI](https://github.com/AditCodeX/CTF-Toolkit-WebUI)** — Interactive web-based suite for Capture The Flag (CTF) challenges and cybersecurity scenario simulations.
+- **[Secure Incident Reporting System (SIRS)](https://github.com/AditCodeX/Secure-Incident-Reporting-System-Mobile-Apps)** — Native Android application prototype built with Kotlin for secure, encrypted centralized incident logging.
+- **[DT-Bug-Prediction](https://github.com/AditCodeX/DT-Bug-Prediction)** — Software defect prediction model implemented with Decision Tree machine learning algorithms.
+- **[Steganalysis_LSB-VISUAL](https://github.com/AditCodeX/Steganalysis_LSB-VISUAL)** — Digital steganography analyzer for detecting hidden payloads in image files via Least Significant Bit (LSB) inspection.
 
 ---
 
