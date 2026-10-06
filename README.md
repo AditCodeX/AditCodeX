@@ -1,8 +1,11 @@
 <!-- Tactical Cyber Header -->
 <div align="center">
   <picture>
+    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile.png?v=2" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile_light.png?v=2" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile.png?v=2" />
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_light.png?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_light.png?v=2" />
     <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=2" alt="Aditya Agung T. Tactical Cyber Banner" width="100%" />
   </picture>
 </div>
@@ -34,9 +37,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=17" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_light.gif?v=1" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=17" alt="Animated professional summary, core competencies and current focus" width="100%" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=18" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile_light.gif?v=2" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=18" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=18" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_light.gif?v=2" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=18" alt="Animated professional summary, core competencies and current focus" width="100%" />
   </picture>
 </div>
 
@@ -46,9 +52,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=16" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_light.gif?v=1" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=16" alt="Animated technical skills overview: languages, machine learning, and security tools" width="100%" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_mobile.gif?v=17" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_mobile_light.gif?v=2" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_mobile.gif?v=17" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_light.gif?v=2" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=17" alt="Animated technical skills overview: languages, machine learning, and security tools" width="100%" />
   </picture>
 </div>
 
@@ -113,8 +122,11 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer_light.gif?v=1" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=5" alt="Thanks for visiting — AditCodeX profile footer" width="100%" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer_mobile.gif?v=6" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer_mobile_light.gif?v=2" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer_mobile.gif?v=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer_light.gif?v=2" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=6" alt="Thanks for visiting — AditCodeX profile footer" width="100%" />
   </picture>
 </div>
