@@ -29,8 +29,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=8" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=16" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=9" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=17" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
   </picture>
 </div>
 
@@ -48,32 +48,32 @@
 ---
 
 ## Key Achievements & Hall of Fame
-- **UNESCO Hall of Fame (Oct 2025):** Officially listed in the global UNESCO Hall of Fame for responsibly disclosing XML-RPC Endpoints Exposure across production assets.
-- **Provincial & Regional CSIRT Recognitions:**
-  - **CSIRT Pemerintah Provinsi DKI Jakarta (Nov 2025):** Certificate of appreciation for discovering and reporting vulnerabilities on official government portals.
-  - **CSIRT Kabupaten Pati (Feb 2026):** Verified Bug Hunter acknowledgment for securing local digital infrastructure.
-- **Education & Scholarship:**
-  - **Politeknik Negeri Cilacap:** D4 Cyber Security Engineering (GPA: 3.79 | 2024 – Present).
-  - **Pertamina Foundation Scholar:** Awardee of Beasiswa Sobat Bumi 2025 (Angkatan 12 Vokasi).
-- **Verified Licenses & Certifications (8 Credentials):**
-  - **Course Offensive Memory Exploitation** — Red Team Leaders (*Sep 2026*)
-  - **Bug Hunter** — CSIRT Kabupaten Pati (*Feb 2026*)
-  - **Certificate of Cybersecurity Researcher** — Pemerintah Provinsi DKI Jakarta (*Nov 2025*)
-  - **Evaluating AI Agents: From Metrics to Real-World Impact** — 365 Data Science (*Nov 2025* | `CC-71C522F87B`)
-  - **Certificate of Fully Automated MLOps** — 365 Data Science (*Nov 2025* | `CC-C09FFF31CE`)
-  - **Certified Cybersecurity Educator Professional (CCEP)** — Red Team Leaders (*Nov 2025*)
-  - **Hall of Fame UNESCO** — UNESCO (*Oct 2025*)
-  - **Professional Artificial Intelligence** — MySkill (*Sep 2023*)
+1. **UNESCO Hall of Fame (Oct 2025):** Officially listed in the global UNESCO Hall of Fame for responsibly disclosing XML-RPC Endpoints Exposure across production assets.
+2. **Provincial & Regional CSIRT Recognitions:**
+   - CSIRT Pemerintah Provinsi DKI Jakarta (Nov 2025): Certificate of appreciation for discovering and reporting vulnerabilities on official government portals.
+   - CSIRT Kabupaten Pati (Feb 2026): Verified Bug Hunter acknowledgment for securing local digital infrastructure.
+3. **Education & Scholarship:**
+   - Politeknik Negeri Cilacap: D4 Cyber Security Engineering (GPA: 3.79 | 2024 – Present).
+   - Pertamina Foundation Scholar: Awardee of Beasiswa Sobat Bumi 2025 (Angkatan 12 Vokasi).
+4. **Verified Licenses & Certifications (8 Credentials):**
+   - Course Offensive Memory Exploitation: Red Team Leaders (*Sep 2026*)
+   - Bug Hunter: CSIRT Kabupaten Pati (*Feb 2026*)
+   - Certificate of Cybersecurity Researcher: Pemerintah Provinsi DKI Jakarta (*Nov 2025*)
+   - Evaluating AI Agents: From Metrics to Real-World Impact: 365 Data Science (*Nov 2025* | `CC-71C522F87B`)
+   - Certificate of Fully Automated MLOps: 365 Data Science (*Nov 2025* | `CC-C09FFF31CE`)
+   - Certified Cybersecurity Educator Professional (CCEP): Red Team Leaders (*Nov 2025*)
+   - Hall of Fame UNESCO: UNESCO (*Oct 2025*)
+   - Professional Artificial Intelligence: MySkill (*Sep 2023*)
 
 ---
 
 ## Featured Open Source Projects
-- **[Sec-XRay](https://github.com/AditCodeX/Sec-XRay)** — Passive & Dynamic SPA/JS Reconnaissance Engine built with Python and Playwright. Features Anti-Bot Stealth Evasion (v2.0) to bypass Cloudflare/Akamai WAFs, deep DOM event-driven crawl, secret leaks scanner, and automated Postman Collection v2.1 generation ready for fuzzing.
-- **[SaySign-Indonesia](https://github.com/AditCodeX/SaySign-Indonesia)** — Real-time Indonesian Sign Language (SIBI) alphabet translator using Computer Vision (MediaPipe) and Deep Learning sequence models (TensorFlow/Keras LSTM) with speech/audio output.
-- **[CTF-Toolkit-WebUI](https://github.com/AditCodeX/CTF-Toolkit-WebUI)** — Interactive web-based suite for Capture The Flag (CTF) challenges and cybersecurity scenario simulations.
-- **[Secure Incident Reporting System (SIRS)](https://github.com/AditCodeX/Secure-Incident-Reporting-System-Mobile-Apps)** — Native Android application prototype built with Kotlin for secure, encrypted centralized incident logging.
-- **[DT-Bug-Prediction](https://github.com/AditCodeX/DT-Bug-Prediction)** — Software defect prediction model implemented with Decision Tree machine learning algorithms.
-- **[Steganalysis_LSB-VISUAL](https://github.com/AditCodeX/Steganalysis_LSB-VISUAL)** — Digital steganography analyzer for detecting hidden payloads in image files via Least Significant Bit (LSB) inspection.
+1. **[Sec-XRay](https://github.com/AditCodeX/Sec-XRay)**: Passive & Dynamic SPA/JS Reconnaissance Engine built with Python and Playwright. Features Anti-Bot Stealth Evasion (v2.0) to bypass Cloudflare/Akamai WAFs, deep DOM event-driven crawl, secret leaks scanner, and automated Postman Collection v2.1 generation ready for fuzzing.
+2. **[SaySign-Indonesia](https://github.com/AditCodeX/SaySign-Indonesia)**: Real-time Indonesian Sign Language (SIBI) alphabet translator using Computer Vision (MediaPipe) and Deep Learning sequence models (TensorFlow/Keras LSTM) with speech/audio output.
+3. **[CTF-Toolkit-WebUI](https://github.com/AditCodeX/CTF-Toolkit-WebUI)**: Interactive web-based suite for Capture The Flag (CTF) challenges and cybersecurity scenario simulations.
+4. **[Secure Incident Reporting System (SIRS)](https://github.com/AditCodeX/Secure-Incident-Reporting-System-Mobile-Apps)**: Native Android application prototype built with Kotlin for secure, encrypted centralized incident logging.
+5. **[DT-Bug-Prediction](https://github.com/AditCodeX/DT-Bug-Prediction)**: Software defect prediction model implemented with Decision Tree machine learning algorithms.
+6. **[Steganalysis_LSB-VISUAL](https://github.com/AditCodeX/Steganalysis_LSB-VISUAL)**: Digital steganography analyzer for detecting hidden payloads in image files via Least Significant Bit (LSB) inspection.
 
 ---
 
