@@ -1,12 +1,12 @@
 <!-- Tactical Cyber Header -->
 <div align="center">
   <picture>
-    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile.png?v=2" />
-    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile_light.png?v=2" />
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile.png?v=2" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_light.png?v=2" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=2" alt="Aditya Agung T. Tactical Cyber Banner" width="100%" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile.png?v=3" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile_light.png?v=3" />
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile.png?v=3" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_light.png?v=3" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=3" alt="Aditya Agung T. Tactical Cyber Banner" width="100%" />
   </picture>
 </div>
 
