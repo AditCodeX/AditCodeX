@@ -1,7 +1,8 @@
 <!-- Tactical Cyber Header -->
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_mobile.png?v=1" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner_light.png?v=1" />
     <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/banner.png?v=2" alt="Aditya Agung T. Tactical Cyber Banner" width="100%" />
   </picture>
 </div>
@@ -19,7 +20,11 @@
 <!-- Animated Typing Introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cyber+Security+%26+Red+Teaming;UNESCO+Hall+of+Fame+Bug+Hunter;AI+%26+Automated+MLOps+Engineer;Open+Source+Security+Developer" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cyber+Security+%26+Red+Teaming;UNESCO+Hall+of+Fame+Bug+Hunter;AI+%26+Automated+MLOps+Engineer;Open+Source+Security+Developer" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cyber+Security+%26+Red+Teaming;UNESCO+Hall+of+Fame+Bug+Hunter;AI+%26+Automated+MLOps+Engineer;Open+Source+Security+Developer" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cyber+Security+%26+Red+Teaming;UNESCO+Hall+of+Fame+Bug+Hunter;AI+%26+Automated+MLOps+Engineer;Open+Source+Security+Developer" alt="Typing SVG" />
+    </picture>
   </a>
 </div>
 
@@ -29,8 +34,9 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_mobile.gif?v=9" />
-    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=17" alt="Animated 16:9 professional summary, core competencies and current focus" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary_light.gif?v=1" />
+    <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/professional_summary.gif?v=17" alt="Animated professional summary, core competencies and current focus" width="100%" />
   </picture>
 </div>
 
@@ -40,7 +46,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_mobile.gif?v=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=16" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills_light.gif?v=1" />
     <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/technical_skills.gif?v=16" alt="Animated technical skills overview: languages, machine learning, and security tools" width="100%" />
   </picture>
 </div>
@@ -80,8 +87,16 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AditCodeX&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=AditCodeX&theme=algolia&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=AditCodeX&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=AditCodeX&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&v=2" />
+    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AditCodeX&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AditCodeX&theme=algolia&hide_border=true&background=0D1117&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AditCodeX&theme=default&hide_border=true&background=FFFFFF&v=2" />
+    <img src="https://streak-stats.demolab.com?user=AditCodeX&theme=algolia&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
@@ -98,7 +113,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer_mobile.gif?v=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer_light.gif?v=1" />
     <img src="https://raw.githubusercontent.com/AditCodeX/AditCodeX/main/profile_footer.gif?v=5" alt="Thanks for visiting — AditCodeX profile footer" width="100%" />
   </picture>
 </div>
