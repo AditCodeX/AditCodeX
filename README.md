@@ -88,7 +88,7 @@
 3. **[CTF-Toolkit-WebUI](https://github.com/AditCodeX/CTF-Toolkit-WebUI)**: Interactive web-based suite for Capture The Flag (CTF) challenges and cybersecurity scenario simulations.
 4. **[Secure Incident Reporting System (SIRS)](https://github.com/AditCodeX/Secure-Incident-Reporting-System-Mobile-Apps)**: Native Android application prototype built with Kotlin for secure, encrypted centralized incident logging.
 5. **[DT-Bug-Prediction](https://github.com/AditCodeX/DT-Bug-Prediction)**: Software defect prediction model implemented with Decision Tree machine learning algorithms.
-6. **[Steganalysis_LSB-VISUAL](https://github.com/AditCodeX/Steganalysis_LSB-VISUAL)**: Digital steganography analyzer for detecting hidden payloads in image files via Least Significant Bit (LSB) inspection.
+6. **[Steganalysis](https://github.com/AditCodeX/Steganalysis)**: Digital image steganography & forensic steganalysis toolkit featuring deterministic LSB payload injection, bit-plane visual attack inspection, and statistical ML classification.
 
 ---
 
