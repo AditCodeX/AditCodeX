@@ -70,7 +70,12 @@
 3. **Education & Scholarship:**
    - Politeknik Negeri Cilacap: D4 Cyber Security Engineering (GPA: 3.79 | 2024 – Present).
    - Pertamina Foundation Scholar: Awardee of Beasiswa Sobat Bumi 2025 (Angkatan 12 Vokasi).
-4. **Verified Licenses & Certifications (8 Credentials):**
+4. **Verified Licenses & Certifications (13 Credentials):**
+   - Google Cybersecurity Specialization: Google via Coursera (*Oct 2026* | `LGG3HZD4C6G6`)
+   - IBM Cybersecurity Analyst Specialization: IBM via Coursera (*Oct 2026* | `B2SC8EG1D4M2`)
+   - IBM AI Engineering Specialization: IBM via Coursera (*Oct 2026* | `9UDG1PFX9GE3`)
+   - IBM Generative AI for Cybersecurity Professionals: IBM via Coursera (*Oct 2026* | `7ZATJ8JJTJ53`)
+   - Microsoft Junior QA/Software Tester: Microsoft via Coursera (*Oct 2026* | `S0WNR6HPEC6M`)
    - Course Offensive Memory Exploitation: Red Team Leaders (*Sep 2026*)
    - Bug Hunter: CSIRT Kabupaten Pati (*Feb 2026*)
    - Certificate of Cybersecurity Researcher: Pemerintah Provinsi DKI Jakarta (*Nov 2025*)
